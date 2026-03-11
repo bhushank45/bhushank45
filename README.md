@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Bhushan 👋
 
-<!--
-**bhushank45/bhushank45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student (Mumbai University)
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst passionate about working with data and discovering insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Excel
+- Data Analysis
+- Data Visualization
+- Pandas
+- NumPy
+
+## Currently Learning
+- Power BI
+- Advanced Data Analysis
+
+## Projects
+I will be uploading projects related to:
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Real-world datasets
+
+## Contact
+LinkedIn:www.linkedin.com/in/bhushankhade
