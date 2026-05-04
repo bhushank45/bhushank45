@@ -28,5 +28,5 @@ I will be uploading projects related to:
 LinkedIn:www.linkedin.com/in/bhushankhade
 
 ## Coding 
-!<img width="512" height="384" alt="coding" src="https://github.com/user-attachments/assets/3997f4df-e2c0-4ce2-a7cd-05914d3154cc" />
+<img width="512" height="384" alt="coding" src="https://github.com/user-attachments/assets/3997f4df-e2c0-4ce2-a7cd-05914d3154cc" />
 
