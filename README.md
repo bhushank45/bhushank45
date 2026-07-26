@@ -6,6 +6,10 @@ I'm a passionate Computer Science student from India who enjoys building respons
 
 Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening my skills in frontend, backend, databases, and version control through hands-on projects.
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,postgresql,git,github,vscode" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -70,12 +74,22 @@ A marketplace where students can buy and sell second-hand books.
 * Modern UI
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushank45&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=bhushank45&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhushank45&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushank45&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushank45&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhushank45&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
