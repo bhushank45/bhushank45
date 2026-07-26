@@ -73,9 +73,9 @@ A marketplace where students can buy and sell second-hand books.
 
 ## 📊 GitHub Stats
 
-![Bhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushank45\&show_icons=true\&theme=tokyonight)
+![Bhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushank45&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushank45\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushank45&layout=compact&theme=tokyonight)
 
 ---
 
