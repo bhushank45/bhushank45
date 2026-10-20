@@ -7,7 +7,7 @@ I'm a passionate Computer Science student from India who enjoys building respons
 Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening my skills in frontend, backend, databases, and version control through hands-on projects.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,java,spring,mysql,postgresql,git,github,vscode" />
 </p>
 
 ---
