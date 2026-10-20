@@ -8,14 +8,14 @@ Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,java,spring,mysql,postgresql,git,github,vscode,eclipse,idea" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </p>
 
 ### 🤖 AI Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=claude,gemini,chatgpt" alt="Claude AI, Gemini AI, and ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ---
@@ -58,8 +58,6 @@ Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening
 * VS Code
 * Eclipse IDE
 * IntelliJ IDEA
-* Google Antigravity IDE
-* OpenAI Codex
 
 ### AI Tools
 
