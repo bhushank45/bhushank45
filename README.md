@@ -7,7 +7,15 @@ I'm a passionate Computer Science student from India who enjoys building respons
 Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening my skills in frontend, backend, databases, and version control through hands-on projects.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,java,spring,mysql,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,java,spring,mysql,postgresql,git,github,vscode,eclipse,idea" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+</p>
+
+### 🤖 AI Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=claude,gemini,chatgpt" alt="Claude AI, Gemini AI, and ChatGPT" />
 </p>
 
 ---
@@ -48,7 +56,16 @@ Currently, I'm focusing on becoming a Full Stack Java Developer by strengthening
 * Git
 * GitHub
 * VS Code
+* Eclipse IDE
 * IntelliJ IDEA
+* Google Antigravity IDE
+* OpenAI Codex
+
+### AI Tools
+
+* Claude AI
+* Gemini AI
+* ChatGPT
 
 ---
 
